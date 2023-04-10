@@ -1,8 +1,8 @@
 {
-  "name": "PHP Server Monitor",
+  "name": "mark-server-monitor",
   "short_name": "PSM",
   "icons": [{
-    "src": "phpservermon.png",
+    "src": "icon.png",
       "sizes": "128x128",
       "type": "image/png"
     }, {

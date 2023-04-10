@@ -1,15 +1,8 @@
-PHP Server Monitor
+MarkServerMonitor
 ==================
 
-.. image:: https://badges.gitter.im/Join%20Chat.svg
-   :alt: Join the chat at https://gitter.im/erickrf/nlpnet
-   :target: https://gitter.im/phpservermon/phpservermon
-.. image:: https://cdn.huntr.dev/huntr_security_badge_mono.svg
-   :alt: huntr
-   :target: https://huntr.dev
-Version 3.6.0.beta2
 
-PHP Server Monitor is a script that checks whether your websites and servers are up and running.
+MarkServerMonitor is a script that checks whether your websites and servers are up and running.
 It comes with a web based user interface where you can manage your services and websites,
 and you can manage users for each server with a mobile number and email address.
 
@@ -72,12 +65,6 @@ The following SMS gateways are currently available:
 Please note: for these gateways you will need an account with sufficient credits.
 
 
-Download
---------
-
-The latest version can be downloaded from https://github.com/phpservermon/phpservermon/releases.
-
-
 Requirements
 ------------
 
@@ -117,29 +104,18 @@ If you are familiar with Vagrant (https://www.vagrantup.com)::
 .. and browse to http://localhost:8080/psm/.
 
 
-Documentation
--------------
-
-The documentation is available in the docs folder or https://docs.phpservermonitor.org.
-
-
 License
 -------
 
-PHP Server Monitor is free software: you can redistribute it and/or modify
+MarkServerMonitor is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-PHP Server Monitor is distributed in the hope that it will be useful,
+MarkServerMonitor is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with PHP Server Monitor.  If not, see https://www.gnu.org/licenses/.
-
-Docker
--------
-
-PHPServerMonitor is now available on Docker : https://github.com/phpservermon/docker-phpservermonitor
+along with MarkServerMonitor.  If not, see https://www.gnu.org/licenses/.
